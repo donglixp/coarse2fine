@@ -9,6 +9,6 @@ Babel==2.5.1
 tabulate==0.8.1
 tqdm==4.19.8
 numpy==1.14.2
-forked_path==0.2.3
+path.py==10.4
 scikit_learn==0.19.1
 stanza==0.3
